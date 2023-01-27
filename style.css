@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrCyDp_NaVlckzGLQ-A36P6vaHSXjKOuLRw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+
+h1 {
+text-align: center;
+color: rgb(0, 148, 79);
+}
+
+.venera{
+    position: absolute;
+    left: 1070px;
+    top: 30px;
+    width: 751px;
+}
+.btn{
+    border: 10px solid green;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: azure;
+    background-color: rgb(27, 196, 27);
+    transition: 2.2s;
+}
+
+
+.btn:hover{
+    color: black;
+    background-color: white;
+}
+
+@media (max-width) {
+
+
+}
+
+iframe{
+    position: absolute;
+    top: 210px;
+    left: 0px;
+}
